@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://peodulice.github.io/cloudkaiyungame-com-cn/sitemap.xml
